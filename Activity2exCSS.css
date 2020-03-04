@@ -1,0 +1,28 @@
+h1.big{
+font-weight:bold;
+font-style:normal;
+font-family:Georgia serif;
+word-spacing:5px;
+font-size:medium;
+border-style:dotted;
+}
+p.medium
+{
+font-style:italic;
+font-weight:100;
+font-family:'Times New Roman' monospaced;
+word-spacing:10px;
+font-size:large;
+}
+h3.small
+{
+font-style:italic;
+font-weight:100;
+font-family:'Times New Roman' monospaced;
+word-spacing:10px;
+font-size:small;
+border-style:dotted dashed solid double;
+}
+
+
+
